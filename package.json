@@ -1,0 +1,17 @@
+{
+  "name": "qalendsqr",
+  "version": "1.0.0",
+  "description": "QA assessment for Capital Credit Limited using Lendsqr APIs",
+  "main": "apiTest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Michael Chilaka",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  },
+  "type": "module"
+}
